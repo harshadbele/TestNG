@@ -1,0 +1,20 @@
+2019-03-04 00:10:55,370 [main] INFO log4j - taking first screenshot
+2019-03-04 00:10:55,480 [main] INFO log4j - sending email id
+2019-03-04 00:10:55,573 [main] INFO log4j - sending pass word
+2019-03-04 00:10:57,576 [main] INFO log4j - thread sleep
+2019-03-04 00:10:57,964 [main] INFO log4j - taking second screenshot
+[main] INFO log4j - taking first screenshot
+[main] INFO log4j - sending email id
+[main] INFO log4j - sending pass word
+[main] INFO log4j - thread sleep
+[main] INFO log4j - taking second screenshot
+2019-05-01 12:04:45,859 [main] INFO log4j - taking first screenshot
+2019-05-01 12:04:45,998 [main] INFO log4j - sending email id
+2019-05-01 12:04:46,090 [main] INFO log4j - sending pass word
+2019-05-01 12:04:48,093 [main] INFO log4j - thread sleep
+2019-05-01 12:04:48,453 [main] INFO log4j - taking second screenshot
+2019-05-01 12:05:58,645 [main] INFO log4j - taking first screenshot
+2019-05-01 12:05:58,777 [main] INFO log4j - sending email id
+2019-05-01 12:05:58,866 [main] INFO log4j - sending password
+2019-05-01 12:06:00,866 [main] INFO log4j - thread sleep
+2019-05-01 12:06:01,249 [main] INFO log4j - taking second screenshot
